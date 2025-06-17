@@ -9,7 +9,7 @@ setuptools.setup(
     version= "0.0.1",
     author= "Klaus10101",
     author_email= "Klaus10101code@gmail.com",
-    description= "a mini scalar valued autograd engine",
+    description= "a mini autograd engine",
     long_description= DESC,
     long_description_content_type= "text/mardown",
     url= "jttps://github.com/Klaus10101/Liligrad.git",
